@@ -1,0 +1,9 @@
+C:\Users\Hygor\source\repos\ConsultaDadosAPI\ConsultaDadosAPI\bin\Debug\ConsultaDadosAPI.dll
+C:\Users\Hygor\source\repos\ConsultaDadosAPI\ConsultaDadosAPI\bin\Debug\ConsultaDadosAPI.pdb
+C:\Users\Hygor\source\repos\ConsultaDadosAPI\ConsultaDadosAPI\bin\Debug\ConsultaDadosAPI.tlb
+C:\Users\Hygor\source\repos\ConsultaDadosAPI\ConsultaDadosAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hygor\source\repos\ConsultaDadosAPI\ConsultaDadosAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hygor\source\repos\ConsultaDadosAPI\ConsultaDadosAPI\obj\Debug\ConsultaDadosAPI.csprojAssemblyReference.cache
+C:\Users\Hygor\source\repos\ConsultaDadosAPI\ConsultaDadosAPI\obj\Debug\ConsultaDadosAPI.csproj.CopyComplete
+C:\Users\Hygor\source\repos\ConsultaDadosAPI\ConsultaDadosAPI\obj\Debug\ConsultaDadosAPI.dll
+C:\Users\Hygor\source\repos\ConsultaDadosAPI\ConsultaDadosAPI\obj\Debug\ConsultaDadosAPI.pdb
